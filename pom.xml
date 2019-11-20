@@ -51,9 +51,9 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.2.0.RELEASE</version>
         </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>
