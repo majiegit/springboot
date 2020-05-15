@@ -1,4 +1,4 @@
-package com.mj.springboot.entriy;
+package com.mj.springboot.entity;
 
 
 import com.baomidou.mybatisplus.annotation.TableName;
@@ -11,6 +11,7 @@ public class User {
     private String name;
     private Integer age;
     private String email;
+    private String password;
 }
 
 

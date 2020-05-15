@@ -1,4 +1,4 @@
-package com.mj.springboot.entriy;
+package com.mj.springboot.entity;
 
 
 import com.baomidou.mybatisplus.annotation.IdType;

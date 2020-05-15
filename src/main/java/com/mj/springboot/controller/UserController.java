@@ -1,7 +1,7 @@
 package com.mj.springboot.controller;
 
 
-import com.mj.springboot.entriy.User;
+import com.mj.springboot.entity.User;
 import com.mj.springboot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

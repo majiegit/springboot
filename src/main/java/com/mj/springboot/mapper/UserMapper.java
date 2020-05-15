@@ -1,10 +1,7 @@
 package com.mj.springboot.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.mj.springboot.entriy.User;
-import org.apache.ibatis.annotations.Mapper;
-
-import java.util.HashMap;
+import com.mj.springboot.entity.User;
 
 public interface UserMapper extends BaseMapper<User> {
 
